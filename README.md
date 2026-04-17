@@ -1,5 +1,7 @@
 # موبایل پیشرو | Mobile Pishro
 
+**English** | [فارسی](README.fa.md)
+
 A modern, luxury-styled e-commerce storefront for a digital & electronics retailer (mobiles, laptops, tablets, gaming gear, and accessories), built with the Next.js App Router. Fully RTL, Persian-first, and designed to feel like a premium international storefront rather than a typical template.
 
 > **Status:** Phase 1 — customer-facing frontend complete, running entirely on realistic mock data. No backend, database, or payment credentials are required to run the project. See [Roadmap](#roadmap--future-work) for what's next.
